@@ -9,11 +9,31 @@
 
 ## 성과
 무사히 잘 만들었다!!
-## 기술 스택
-Java Spring ...
+## 🛠️사용된 도구
+* Spring boot 2.3.1
+* Gradle ...
+* IDE : Eclipse, Visual Studio Code, ...
 
-## 팀원
-내용
+## 사용된 기술
+* 
+*
+*
+#### [BackEnd]
+ * Spring Boot : ~ 구현
+ * MySQL(Oracle) : ~ 데이터 저장
+ * ...
+
+#### [FrontEnd]
+ * Vue
+
+#### [TEAM 협업도구]
+ * Github
+ * Google Drive
+ * ...
+
+## 시스템 아키텍
+
+
 
 ## DataBase 설계
 내용
@@ -25,3 +45,7 @@ Java Spring ...
 ### 2. B 기능
 
 
+## 팀원
+내용
+
+## 라이센스
