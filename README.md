@@ -16,6 +16,7 @@
 * Spring boot 2.3.1
 * Gradle ...
 * IDE : Eclipse, Visual Studio Code, ...
+* 
 
 ## ✒️사용된 기술
 * 
@@ -28,6 +29,7 @@
 
 #### [FrontEnd]
  * Vue
+ * React
 
 #### [TEAM 협업도구]
  * Github
