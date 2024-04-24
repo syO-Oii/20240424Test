@@ -12,11 +12,12 @@
 
 ## 성과
 무사히 잘 만들었다!!
+
 ## 🛠️사용된 도구
 * Spring boot 2.3.1
 * Gradle ...
-* IDE : Eclipse, Visual Studio Code, ...
-* 
+* IDE : IntelliJ IDEA
+* DB : MySQL
 
 ## ✒️사용된 기술
 * 
