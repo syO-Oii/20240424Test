@@ -11,4 +11,8 @@
 1. [전공 지식 관련](https://github.com/HyeminNoh/Tech-Stack)
 2. [개발 관련](https://github.com/syO-Oii/SaveDevelpInfo)
 3. 참고사이트
-   1) 
+   1) [엠엔씨에이프로](https://www.mncapro.com/sub02.html)
+   2) [휘스커](https://www.whisker.kr/pages/sub/sub0201_02)
+   3) [유플러스, 관리자페이지](http://www.uplusys.com/ver2/sub/2_02entrance.html)
+   4) [(학생)한국디지털미디어고](https://www.youtube.com/watch?v=N8JVsTLXn9U)
+   5) [(학생)유치원입학시스템-처음학교로](https://www.go-firstschool.go.kr/PAMS_SS/selectHm10mGridList.do)
