@@ -7,6 +7,9 @@
 ## 팀프로젝트 진행 순서
 [구글시트](https://docs.google.com/spreadsheets/d/1o7xDyb1eGY72_eYgpjCF5Iuoph3_9X_zYhoFV4aV6E8/edit?usp=sharing)
 
+## 팀프로젝트 기획, WBS 등
+[구글시트](https://docs.google.com/spreadsheets/d/1DfTw7w9KGj3WIBf4NhGmFhLrL5bDyM1M8hJ5M3MfHF4/edit?usp=sharing)
+
 ## 자료 공유
 [구글드라이브](https://drive.google.com/drive/folders/1s7JvbRe__EmM5LlwF3Ff3C56V-AmlPSo?usp=drive_link)
 
